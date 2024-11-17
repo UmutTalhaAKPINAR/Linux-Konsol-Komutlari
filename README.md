@@ -1,0 +1,1 @@
+# Linux-Konsol-Komutlari
