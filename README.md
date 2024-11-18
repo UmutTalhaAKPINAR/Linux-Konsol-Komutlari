@@ -9,7 +9,7 @@ Bulunduğunuz dizindeki dosya ve klasörleri listeler.
 Klasörler arasında gezinmek için kullanılır.
 
 ![1 (25)](https://github.com/user-attachments/assets/c9c2dff3-6a04-4c42-9180-951eabd4d375)
-
+(KIRMIZI:Geçmek istediğiniz dizinin yolu)
 ## 3-) pwd
 Bulunduğunuz dizinin yolunu gösterir.
 
@@ -19,27 +19,27 @@ Bulunduğunuz dizinin yolunu gösterir.
 Dosya veya klasör kopyalamak için kullanılır.
 
 ![1 (27)](https://github.com/user-attachments/assets/ae7c93e7-4019-43c6-8d2a-82573a4321c5)
-
+(KIRMIZI:Kopyalanacak dizinin yolu) (MAVİ:Kopyalanacak yerin yolu)
 ## 5-) mv (Move)
 Dosya veya klasör taşımak ya da yeniden adlandırmak için kullanılır.
 
 ![1 (28)](https://github.com/user-attachments/assets/06fe3f8e-a186-4120-bb79-b4ee2cc65a8e)
-
+(KIRMIZI:Taşınacak dizinin yolu) (MAVİ:Taşınacak yerin yolu)
 ## 6-) mkdir (Make Directory)
 Yeni bir klasör oluşturur.
 
 ![1 (29)](https://github.com/user-attachments/assets/725489ce-8cac-437c-9589-cc69a868c18b)
-
+(KIRMIZI:Oluşturmak istediğiniz dizinin adı)
 ## 7-) rm (Remove)
 Dosya veya klasör silmek için kullanılır.
 
 ![1 (30)](https://github.com/user-attachments/assets/b85fd46a-53d2-4c2c-8416-80224a277686)
-
+(MAVİ:Silinecek dizinin yolu)
 ## 8-) touch
 Yeni boş bir dosya oluşturur.
 
 ![1 (31)](https://github.com/user-attachments/assets/aa85f184-296d-438c-8562-2f339ac66de4)
-
+(MAVİ:Oluşturulacak dosyanın adı)
 ## 9-) rmdir (Remove Directory)
 Yeni boş bir dosya oluşturur.
 
@@ -69,7 +69,7 @@ Komut satırında dosya düzenlemek için metin editörleri.
 Belirli bir deseni dosya içinde arar ve sonuçları gösterir.
 
 ![1 (38)](https://github.com/user-attachments/assets/740b4e03-3ed0-4f2b-afa5-d5c10840d398)
-
+(KIRMIZI:Belgenin içinde aramak istediğimiz şey)(MAVİ:Aranacak belge)
 ## 14-) ps
 Çalışan işlemleri listeler.
 
@@ -79,7 +79,7 @@ Belirli bir deseni dosya içinde arar ve sonuçları gösterir.
 Belirli bir işlemi sonlandırır.
 
 ![1 (43)](https://github.com/user-attachments/assets/d52f8294-89f9-4d8c-a6e9-1fc0a0cc273b)
-
+(KIRMIZI:Kapatılacak işkem)
 ## 16-) df
 Disk alanı kullanımını gösterir.
 
